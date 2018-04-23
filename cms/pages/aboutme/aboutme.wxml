@@ -1,2 +1,6 @@
 <!--pages/aboutme/aboutme.wxml-->
-<text>pages/aboutme/aboutme.wxml</text>
+<view class="container">
+  <view>
+    <image src="/images/wechatHL.png"></image>
+  </view>
+</view>
